@@ -1,39 +1,36 @@
 <div align="center">
 
 ```
-                    :-=+*#%%%%%%%%##*=-:
-               .-+#%#%@%=:::....::-=+*#%%#+-.
-            .=*%#*-: .+%#=.             .-*@%#=.
-          -*%@%:       :+%%*-           :*%#*+#%*-
-        -#%*-*%#-         -#@%=       :*@*:    :*%#-
-      :#@*:   :*%%*=:.      :#@#.    :%%-        .+%*:
-     =%#:       .-+#%%#+:     +@%.   *@+        :=+%@@=
-    *@@-             :=#@#-    *@*   #@:     :*%%*+==*@*
-   *@+#@#=:.            -%@=   -@%   #@-    =@#-      +@#
-  *@+  :+#%%%####*=:     -%%.  *@*   #@-   =@*         +@*
- =@#       ..::-=+#@#-    %@: =@%.  .%%:  .%%.          *@=
- %%:               :#@+   #@-+@#.   +@+   =@*      :=+**#@%
-=@%.                 #@=  #@%@+   .*@+   .%@-   .+%%#+=--#@=
-*@%%*====+***+=-     .%%:.%@*:   +%%-   :#%=  .+%%+.     =@*
-#@-:=+***+===+*%%+.   =@#*@*   :#@+   .+@@#=+#%#=.       -@#
-#@-             =%%=   *@@%:   #@= .=#%%##**+-.          -@#
-*@=              .%@-   *@%:  :@%:*%%+:.       .....     =@*
--@#:      .....   .%%-   #@#. .%%%%-     .-+#######%%#+-.#@-
- #@@%***##%%#%%%*=::#%=   +@%- *@%:    .+%%+-:.    .:-*%%%#
- -@%==+=-:.   .-+#%##@@#:  :*@#*@%.   .%%=             .%@-
-  +@+              :-=*%@#-  .+%@@+   *@+              +@+
-   *@+           ..     :*@%-  .+%@=  =@#             +@*
-    +@*.    .-*%%%%%#+:   :#@+   -%%:  +@#.         .*@*
-     =%%=-=#%#+-...:=#@#:   #@=   +@*   -%%:       -%%=
-      .*@@#=.         =@#   =@*   -@#    -@%     :*@*.
-        :*%*-         .%%   +@+   +@+     %@.  -*@#:
-          :*%%+:      *@=  :%%.  :%#     .%%=+%%*:
-            .-*%%*=:=#%=  :%%:   #@-   .:*@@%*-.
-                :=*#%@#+=+%%=:::-%@*+*#%#*=:
-                    .:=+*####%%%%#**+=:.
+                  ..++###########++..
+              .+####@@+         ..++###+.
+           .+##+.   .##+.             +#@##.
+         +##@#        .+##+         .##+...##+
+       +#+. .##+.        .#@+      +@+      .+#+
+     .##.     .+####+.     +@#    +@+         +@#+
+    +@#           ..+##+    +@#   ##      .+##++#@+
+   #####.             +@#    #@   ##     ##+     .##
+  ##.  +#######++.     +@+  .@#   ##    ##        .##
+ +@+         ...+##+    ##  ##.   ##   +@.         +@+
+ ##               +@#   ##.##.   ##.   ##     .++###@#
++@#.               .@+  #@#+   .##.   +@.   .##+..  +@+
+#@+###########+.    +@..@#    ##+   .#@+  +##+      .@#
+#@    .      .+##.   ####    ##   .+@@####+.         @#
+#@.             #@.  .#@#   +@. +##+..              .@#
++@+              ##.  .#@.  #@##+.     ..++####++.. +@+
+ #@#+++++#####++. +#.   #@+ .#@+     +##+..   ..++####
+ +@#++++..   ..+###@@#.  .##+#@.   .##.            #@+
+  ##.             ..+###.  .#@@+   #@.            .##
+   ##.         ..      +##.  .#@+  +@+           .##
+    +@+    .+#######+    #@.   #@.  +@+         +@+
+     .######+      .##.   ##   .@#   .##      .##.
+       +##.          ##   #@   .@+    +@.   .##+
+         +##+       .@+  .##   ##.    +@+ +##+
+           .+##+.  +#+  .##   +@+     #@##+.
+              .+###@#..+##.   #@+.++##++.
+                   ..+##########+++.
 
-               x k u b u s h
-               > data science | fullstack | crypto
+              x k u b u s h
+              > data science | fullstack | crypto
 ```
 
 </div>
@@ -47,13 +44,14 @@
 ![Python](https://img.shields.io/badge/Python-00ff41?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117)
 ![TypeScript](https://img.shields.io/badge/TypeScript-00d4ff?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0d1117)
 ![SQL](https://img.shields.io/badge/SQL-00ff41?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0d1117)
+![Solidity](https://img.shields.io/badge/Solidity-00d4ff?style=for-the-badge&logo=solidity&logoColor=white&labelColor=0d1117)
 
 **`⟨ DATA & ML ⟩`**
 
 ![Pandas](https://img.shields.io/badge/Pandas-00d4ff?style=for-the-badge&logo=pandas&logoColor=white&labelColor=0d1117)
-![Plotly](https://img.shields.io/badge/Plotly-00ff41?style=for-the-badge&logo=plotly&logoColor=white&labelColor=0d1117)
-![Jupyter](https://img.shields.io/badge/Jupyter-00d4ff?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=0d1117)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-00ff41?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=0d1117)
+![NumPy](https://img.shields.io/badge/NumPy-00ff41?style=for-the-badge&logo=numpy&logoColor=white&labelColor=0d1117)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-00d4ff?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=0d1117)
+![PyTorch](https://img.shields.io/badge/PyTorch-00ff41?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=0d1117)
 
 **`⟨ FRONTEND ⟩`**
 
@@ -72,9 +70,8 @@
 **`⟨ BLOCKCHAIN ⟩`**
 
 ![Ethereum](https://img.shields.io/badge/Ethereum-00d4ff?style=for-the-badge&logo=ethereum&logoColor=white&labelColor=0d1117)
-![Solidity](https://img.shields.io/badge/Solidity-00ff41?style=for-the-badge&logo=solidity&logoColor=white&labelColor=0d1117)
-![Foundry](https://img.shields.io/badge/Foundry-00d4ff?style=for-the-badge&logo=ethereum&logoColor=white&labelColor=0d1117)
-![Envio](https://img.shields.io/badge/Envio-00ff41?style=for-the-badge&logoColor=white&labelColor=0d1117)
+![Foundry](https://img.shields.io/badge/Foundry-00ff41?style=for-the-badge&logo=ethereum&logoColor=white&labelColor=0d1117)
+![Envio](https://img.shields.io/badge/Envio-00d4ff?style=for-the-badge&logoColor=white&labelColor=0d1117)
 
 </div>
 
