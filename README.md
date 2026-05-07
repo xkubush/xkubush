@@ -74,7 +74,7 @@ DeFi protocol building on top of Euler v2 — data pipelines, risk monitoring, p
 
 **`⟨ STATS ⟩`**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xkubush&show_icons=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&icon_color=00d4ff&border_color=00ff41&hide_border=false)
+![GitHub Stats](https://github-readme-stats-chi-flame-31.vercel.app/api?username=xkubush&show_icons=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&icon_color=00d4ff&border_color=00ff41&hide_border=false)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=xkubush&background=0d1117&border=00ff41&stroke=00ff41&ring=00ff41&fire=00d4ff&currStreakNum=00ff41&sideNums=00ff41&currStreakLabel=00d4ff&sideLabels=00d4ff&dates=c9d1d9)
 
